@@ -57,6 +57,7 @@ description: Read and summarize arXiv papers from title. Use when the user asks 
 
 - 摘要 + 引言：问题定义、动机、挑战、贡献列表
 - 方法：核心假设、模型/算法步骤、损失函数、训练/推理流程
+- 公式：每个公式的含义、公式中符号的定义都应该解释清楚
 - 理论（如有）：定理、证明思路、条件与适用范围
 - 实验：
   - 数据集/任务、评估指标、对比方法（SOTA/强基线）
